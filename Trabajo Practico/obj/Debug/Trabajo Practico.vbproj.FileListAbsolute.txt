@@ -1,0 +1,63 @@
+C:\Desarrollos Web\Trabajo Practico\Trabajo Practico\bin\Trabajo Practico.dll.config
+C:\Desarrollos Web\Trabajo Practico\Trabajo Practico\bin\Trabajo Practico.dll
+C:\Desarrollos Web\Trabajo Practico\Trabajo Practico\bin\Trabajo Practico.pdb
+C:\Desarrollos Web\Trabajo Practico\Trabajo Practico\bin\Trabajo Practico.xml
+C:\Desarrollos Web\Trabajo Practico\Trabajo Practico\bin\roslyn\csc.exe
+C:\Desarrollos Web\Trabajo Practico\Trabajo Practico\bin\roslyn\csc.exe.config
+C:\Desarrollos Web\Trabajo Practico\Trabajo Practico\bin\roslyn\csc.rsp
+C:\Desarrollos Web\Trabajo Practico\Trabajo Practico\bin\roslyn\csi.exe
+C:\Desarrollos Web\Trabajo Practico\Trabajo Practico\bin\roslyn\csi.exe.config
+C:\Desarrollos Web\Trabajo Practico\Trabajo Practico\bin\roslyn\csi.rsp
+C:\Desarrollos Web\Trabajo Practico\Trabajo Practico\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Desarrollos Web\Trabajo Practico\Trabajo Practico\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Desarrollos Web\Trabajo Practico\Trabajo Practico\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Desarrollos Web\Trabajo Practico\Trabajo Practico\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Desarrollos Web\Trabajo Practico\Trabajo Practico\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Desarrollos Web\Trabajo Practico\Trabajo Practico\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Desarrollos Web\Trabajo Practico\Trabajo Practico\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Desarrollos Web\Trabajo Practico\Trabajo Practico\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Desarrollos Web\Trabajo Practico\Trabajo Practico\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Desarrollos Web\Trabajo Practico\Trabajo Practico\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Desarrollos Web\Trabajo Practico\Trabajo Practico\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Desarrollos Web\Trabajo Practico\Trabajo Practico\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Desarrollos Web\Trabajo Practico\Trabajo Practico\bin\roslyn\System.AppContext.dll
+C:\Desarrollos Web\Trabajo Practico\Trabajo Practico\bin\roslyn\System.Collections.Immutable.dll
+C:\Desarrollos Web\Trabajo Practico\Trabajo Practico\bin\roslyn\System.Console.dll
+C:\Desarrollos Web\Trabajo Practico\Trabajo Practico\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Desarrollos Web\Trabajo Practico\Trabajo Practico\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Desarrollos Web\Trabajo Practico\Trabajo Practico\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Desarrollos Web\Trabajo Practico\Trabajo Practico\bin\roslyn\System.Globalization.Calendars.dll
+C:\Desarrollos Web\Trabajo Practico\Trabajo Practico\bin\roslyn\System.IO.Compression.dll
+C:\Desarrollos Web\Trabajo Practico\Trabajo Practico\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Desarrollos Web\Trabajo Practico\Trabajo Practico\bin\roslyn\System.IO.FileSystem.dll
+C:\Desarrollos Web\Trabajo Practico\Trabajo Practico\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Desarrollos Web\Trabajo Practico\Trabajo Practico\bin\roslyn\System.Net.Http.dll
+C:\Desarrollos Web\Trabajo Practico\Trabajo Practico\bin\roslyn\System.Net.Sockets.dll
+C:\Desarrollos Web\Trabajo Practico\Trabajo Practico\bin\roslyn\System.Reflection.Metadata.dll
+C:\Desarrollos Web\Trabajo Practico\Trabajo Practico\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Desarrollos Web\Trabajo Practico\Trabajo Practico\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Desarrollos Web\Trabajo Practico\Trabajo Practico\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Desarrollos Web\Trabajo Practico\Trabajo Practico\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Desarrollos Web\Trabajo Practico\Trabajo Practico\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Desarrollos Web\Trabajo Practico\Trabajo Practico\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Desarrollos Web\Trabajo Practico\Trabajo Practico\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Desarrollos Web\Trabajo Practico\Trabajo Practico\bin\roslyn\System.ValueTuple.dll
+C:\Desarrollos Web\Trabajo Practico\Trabajo Practico\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Desarrollos Web\Trabajo Practico\Trabajo Practico\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Desarrollos Web\Trabajo Practico\Trabajo Practico\bin\roslyn\System.Xml.XPath.dll
+C:\Desarrollos Web\Trabajo Practico\Trabajo Practico\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Desarrollos Web\Trabajo Practico\Trabajo Practico\bin\roslyn\vbc.exe
+C:\Desarrollos Web\Trabajo Practico\Trabajo Practico\bin\roslyn\vbc.exe.config
+C:\Desarrollos Web\Trabajo Practico\Trabajo Practico\bin\roslyn\vbc.rsp
+C:\Desarrollos Web\Trabajo Practico\Trabajo Practico\bin\roslyn\VBCSCompiler.exe
+C:\Desarrollos Web\Trabajo Practico\Trabajo Practico\bin\roslyn\VBCSCompiler.exe.config
+C:\Desarrollos Web\Trabajo Practico\Trabajo Practico\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Desarrollos Web\Trabajo Practico\Trabajo Practico\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Desarrollos Web\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo Practico.vbprojAssemblyReference.cache
+C:\Desarrollos Web\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo_Practico.Resources.resources
+C:\Desarrollos Web\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo Practico.vbproj.GenerateResource.cache
+C:\Desarrollos Web\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo Practico.vbproj.CoreCompileInputs.cache
+C:\Desarrollos Web\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo Practico.vbproj.CopyComplete
+C:\Desarrollos Web\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo Practico.dll
+C:\Desarrollos Web\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo Practico.xml
+C:\Desarrollos Web\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo Practico.pdb
