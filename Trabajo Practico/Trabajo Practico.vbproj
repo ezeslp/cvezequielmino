@@ -98,14 +98,45 @@
     <Content Include="css\bootstrap-reboot.min.css" />
     <Content Include="css\bootstrap.css" />
     <Content Include="css\bootstrap.min.css" />
+    <Content Include="css\fondo.png" />
+    <Content Include="css\global.jpg" />
+    <Content Include="css\grupometropol.jpg" />
+    <Content Include="css\imgeze.png" />
+    <Content Include="css\logoescuela.jpg" />
+    <Content Include="css\logosuperior.jpg" />
+    <Content Include="css\quilmes.png" />
+    <Content Include="Datos Personales.aspx" />
+    <Content Include="Estudios.aspx" />
+    <Content Include="Experiencias.aspx" />
     <Content Include="js\bootstrap.bundle.js" />
     <Content Include="js\bootstrap.bundle.min.js" />
     <Content Include="js\bootstrap.js" />
     <Content Include="js\bootstrap.min.js" />
     <Content Include="Web.config" />
-    <Content Include="WebForm1.aspx" />
+    <Content Include="Principal.aspx" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Datos Personales.aspx.designer.vb">
+      <DependentUpon>Datos Personales.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Datos Personales.aspx.vb">
+      <DependentUpon>Datos Personales.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Estudios.aspx.designer.vb">
+      <DependentUpon>Estudios.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Estudios.aspx.vb">
+      <DependentUpon>Estudios.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Experiencias.aspx.designer.vb">
+      <DependentUpon>Experiencias.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Experiencias.aspx.vb">
+      <DependentUpon>Experiencias.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
@@ -132,11 +163,11 @@
       <DependentUpon>Site1.Master</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="WebForm1.aspx.designer.vb">
-      <DependentUpon>WebForm1.aspx</DependentUpon>
+    <Compile Include="Principal.aspx.designer.vb">
+      <DependentUpon>Principal.aspx</DependentUpon>
     </Compile>
-    <Compile Include="WebForm1.aspx.vb">
-      <DependentUpon>WebForm1.aspx</DependentUpon>
+    <Compile Include="Principal.aspx.vb">
+      <DependentUpon>Principal.aspx</DependentUpon>
       <SubType>ASPXCodebehind</SubType>
     </Compile>
   </ItemGroup>
@@ -176,6 +207,11 @@
     <None Include="Web.Release.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="cd myapp\" />
+    <Folder Include="mkdir myapp\" />
+    <Folder Include="npm i mdbootstrap\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
